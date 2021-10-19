@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
 
-const name = "Trunks"
+const name = "李焕婷看得到雨哥的网页吗？"
 export const siteTitle = "next.js Sample Website"
 
 export default function Layout ({ children, home }) {
